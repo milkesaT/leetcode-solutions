@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/milkesaT/CP/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/milkesaT/CP/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/milkesaT/CP/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/milkesaT/CP/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/milkesaT/CP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/milkesaT/CP/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/milkesaT/CP/tree/master/1189-maximum-number-of-balloons) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/milkesaT/CP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/milkesaT/CP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/milkesaT/CP/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/milkesaT/CP/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/milkesaT/CP/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/milkesaT/CP/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/milkesaT/CP/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/milkesaT/CP/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/milkesaT/CP/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/milkesaT/CP/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/milkesaT/CP/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/milkesaT/CP/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/milkesaT/CP/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/milkesaT/CP/tree/master/0771-jewels-and-stones) |
