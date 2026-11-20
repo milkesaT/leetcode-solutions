@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/milkesaT/CP/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/milkesaT/CP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/milkesaT/CP/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/milkesaT/CP/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/milkesaT/CP/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/milkesaT/CP/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/milkesaT/CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/milkesaT/CP/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/milkesaT/CP/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/milkesaT/CP/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/milkesaT/CP/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/milkesaT/CP/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/milkesaT/CP/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/milkesaT/CP/tree/master/0771-jewels-and-stones) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/milkesaT/CP/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/milkesaT/CP/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/milkesaT/CP/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/milkesaT/CP/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/milkesaT/CP/tree/master/0486-predict-the-winner) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/milkesaT/CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/milkesaT/CP/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
